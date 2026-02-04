@@ -1,0 +1,14 @@
+.logo{
+    position: relative;
+    /* padding-right: 950px; */
+    padding-left: 20px;
+    margin-right: 800px;
+}
+
+body{
+     background-color: rgb(255, 255, 255); 
+}
+
+*{
+    background-origin: content-box;
+}

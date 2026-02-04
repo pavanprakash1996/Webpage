@@ -1,0 +1,33 @@
+*{
+    background-origin: content-box;
+}
+.content{
+    margin-top: 100px;
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* border: 1px black solid; */
+    display: flex;
+    flex-direction: row 10px 1f;
+    align-items: center;
+}
+
+
+.text{
+    /* asdas */
+    border-radius: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 900px;
+    font-size: 50px;
+    font-family: "Bungee", sans-serif;
+    transition: background-color 0.5s, color 0.5s;
+    border: 3px rgb(255, 255, 255) solid;
+    
+}
+/*  */
+.text:hover{
+    border: 3px rgb(6, 172, 255) solid;
+}
